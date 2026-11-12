@@ -1,0 +1,431 @@
+fileFormatVersion: 2
+guid: 0309215b96c8e5b459ca1a698e999135
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3634657717608504187
+    second: faiths_choir_finalst_tital_0
+  - first:
+      213: 5085462076092012878
+    second: faiths_choir_finalst_tital_1
+  - first:
+      213: 1310457573777067604
+    second: faiths_choir_finalst_tital_2
+  - first:
+      213: -9093865378230763016
+    second: faiths_choir_finalst_tital_3
+  - first:
+      213: 1472864834917947717
+    second: faiths_choir_finalst_tital_4
+  - first:
+      213: -7233080199877943155
+    second: faiths_choir_finalst_tital_5
+  - first:
+      213: 3487234022161273462
+    second: faiths_choir_finalst_tital_6
+  - first:
+      213: 8600229071809971196
+    second: faiths_choir_finalst_tital_7
+  - first:
+      213: -2166948052960110454
+    second: faiths_choir_finalst_tital_8
+  - first:
+      213: -3743500878085962017
+    second: faiths_choir_finalst_tital_9
+  - first:
+      213: 4931588892849463786
+    second: faiths_choir_finalst_tital_10
+  - first:
+      213: 5047866154984373752
+    second: faiths_choir_finalst_tital_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: faiths_choir_finalst_tital_0
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 810
+        width: 36
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58420d5201a1f8dc0800000000000000
+      internalID: -3634657717608504187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faiths_choir_finalst_tital_1
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 810
+        width: 49
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e495f2470d0339640800000000000000
+      internalID: 5085462076092012878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faiths_choir_finalst_tital_2
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 810
+        width: 22
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45ec332683eaf2210800000000000000
+      internalID: 1310457573777067604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faiths_choir_finalst_tital_3
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 810
+        width: 48
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f1055fae991cc180800000000000000
+      internalID: -9093865378230763016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faiths_choir_finalst_tital_4
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 810
+        width: 48
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 549d27783caa07410800000000000000
+      internalID: 1472864834917947717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faiths_choir_finalst_tital_5
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 951
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d802d5671efee9b90800000000000000
+      internalID: -7233080199877943155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faiths_choir_finalst_tital_6
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 810
+        width: 49
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6725493fdd4256030800000000000000
+      internalID: 3487234022161273462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faiths_choir_finalst_tital_7
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 810
+        width: 49
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf3883c56c62a5770800000000000000
+      internalID: 8600229071809971196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faiths_choir_finalst_tital_8
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 810
+        width: 48
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8896901a347de1e0800000000000000
+      internalID: -2166948052960110454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faiths_choir_finalst_tital_9
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 810
+        width: 49
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd6c25909c96c0cc0800000000000000
+      internalID: -3743500878085962017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faiths_choir_finalst_tital_10
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 810
+        width: 22
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae1ed8828f5807440800000000000000
+      internalID: 4931588892849463786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faiths_choir_finalst_tital_11
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 810
+        width: 48
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fd7f81f58f9d0640800000000000000
+      internalID: 5047866154984373752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      faiths_choir_finalst_tital_0: -3634657717608504187
+      faiths_choir_finalst_tital_1: 5085462076092012878
+      faiths_choir_finalst_tital_10: 4931588892849463786
+      faiths_choir_finalst_tital_11: 5047866154984373752
+      faiths_choir_finalst_tital_2: 1310457573777067604
+      faiths_choir_finalst_tital_3: -9093865378230763016
+      faiths_choir_finalst_tital_4: 1472864834917947717
+      faiths_choir_finalst_tital_5: -7233080199877943155
+      faiths_choir_finalst_tital_6: 3487234022161273462
+      faiths_choir_finalst_tital_7: 8600229071809971196
+      faiths_choir_finalst_tital_8: -2166948052960110454
+      faiths_choir_finalst_tital_9: -3743500878085962017
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
